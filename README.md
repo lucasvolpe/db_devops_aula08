@@ -16,10 +16,10 @@ source ./venv/Scripts/activate
 5) Desativando ambiente
 deactivate
 
-Sequencia dentro do Gitbash
-pwd (Aqui vai aparecer o caminho completo do diretorio)
-python3 -m venv <caminho completo do diretorio>/venv
-source ./venv/Scripts/activate
-pip install pytest
-pip freeze > requirements.txt
-head requirements.txt
+Sequencia dentro do Gitbash  
+pwd (Aqui vai aparecer o caminho completo do diretorio)  
+python3 -m venv <caminho completo do diretorio>/venv  
+source ./venv/Scripts/activate  
+pip install pytest  
+pip freeze > requirements.txt  
+head requirements.txt  
