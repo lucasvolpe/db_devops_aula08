@@ -8,7 +8,7 @@ pip install -r requirements.txt
   
 3) Inserindo nova biblioteca  
 source ./venv/Scripts/activate  
-pip install <biblioteca>  
+pip install < biblioteca >  
 pip freeze > requirements.txt  
   
 4) Ativando ambiente  
